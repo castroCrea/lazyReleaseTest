@@ -1,4 +1,4 @@
-# lazyReleaseTesthttps://github.com/castroCrea/lazyReleaseTest/blob/master/README.md
+# lazyReleaseTest
 
 | Env     |                                                                                       Release                                                                                        |
 | ------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
